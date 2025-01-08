@@ -15,12 +15,13 @@
       2
     ],
     "linebreak-style": [
-      "error",
-      "unix"
+      "error", 
+      "windows"
     ],
     "quotes": [
       "error",
-      "single"
+      "single",
+      "backtick"
     ],
     "semi": [
       "error",
